@@ -1,5 +1,6 @@
 - Tf2Demo-man-scream.mp3
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jususs)](https://git.io/streak-stats)
 
 <!---
 Jususs/Jususs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
