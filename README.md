@@ -6,7 +6,7 @@
 - I love sports, anime, coding, videogames and fantasy!
 
 ## 💻 Projects
-Cookie Crafter (Seasonal extension for MCdle) - <a href=https://www.mcdle.net/>MCdle</a>
+Cookie Crafter (Xmas extension for MCdle, only available seasonally) - <a href=https://www.mcdle.net/>MCdle</a>
 <br/>
 GMTK 2023 (GameJam) - <a href=https://elitogame.itch.io/let-it-cook>Let it Cook</a>
 
