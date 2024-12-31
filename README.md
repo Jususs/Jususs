@@ -6,6 +6,7 @@
 - I love sports, anime, coding, videogames and fantasy!
 
 ## 💻 Projects
+HGBGameJam2024 - <a href=https://nocturnal-ducks.itch.io/faeground>Faeground</a>
 Cookie Crafter (Xmas extension for MCdle, only available seasonally) - <a href=https://www.mcdle.net/>MCdle</a>
 <br/>
 GMTK 2023 (GameJam) - <a href=https://elitogame.itch.io/let-it-cook>Let it Cook</a>
