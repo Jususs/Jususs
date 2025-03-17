@@ -5,7 +5,7 @@
 - I studied Software Engineering and Design
 - I love sports, anime, coding, videogames and fantasy!
 
-## 💻 Projects
+## 💻 Public Projects
 HGBGameJam2024 - <a href=https://nocturnal-ducks.itch.io/faeground>Faeground</a>
 <br/>
 Cookie Crafter (Xmas extension for MCdle, only available seasonally) - <a href=https://www.mcdle.net/>MCdle</a>
