@@ -3,7 +3,7 @@
 
 ## About me :)
 - I studied Software Engineering and Design
-- I love sports, anime, coding, videogames and fantasy!
+- Fantasy and anime enthusiast that loves sports and coding
 
 ## 💻 Public Projects
 GMTK 2025 (GameJam) - <a href=https://elitogame.itch.io/locolooptive>Locolooptive</a>
