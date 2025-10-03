@@ -6,6 +6,8 @@
 - I love sports, anime, coding, videogames and fantasy!
 
 ## 💻 Public Projects
+GMTK 2025 (GameJam) - <a href=https://elitogame.itch.io/locolooptive>Locolooptive</a>
+<br/>
 HGBGameJam2024 - <a href=https://nocturnal-ducks.itch.io/faeground>Faeground</a>
 <br/>
 Cookie Crafter (Xmas extension for MCdle, only available seasonally) - <a href=https://www.mcdle.net/>MCdle</a>
