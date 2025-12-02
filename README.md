@@ -16,7 +16,7 @@ GMTK 2023 (GameJam) - <a href=https://elitogame.itch.io/let-it-cook>Let it Cook<
 
 
 ## 📜 Released Papers
---- comming soon ---
+--- _coming soon_ ---
 <!---
 Jususs/Jususs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
