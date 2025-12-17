@@ -6,13 +6,56 @@
 - Fantasy enthusiast that loves sports, coding, anime and videogames
 
 ## 💻 Public Projects
-GMTK 2025 (GameJam) - <a href=https://elitogame.itch.io/locolooptive>Locolooptive</a>
+
+<table>
+  <caption>Game Jams</caption>
+  <tr>
+    <th>Year</th>
+    <th>Game Jam</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>HGB Game Jam</td>
+    <td> _coming soon_ </td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>GMTK</td>
+    <td><a href=https://elitogame.itch.io/locolooptive>Locolooptive</a></td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>HGB Game Jam</td>
+    <td><a href=https://nocturnal-ducks.itch.io/faeground>Faeground</a></td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>GMTK</td>
+    <td><a href=https://elitogame.itch.io/let-it-cook>Let it Cook</a></td>
+  </tr>
+</table>
+
 <br/>
-HGBGameJam2024 - <a href=https://nocturnal-ducks.itch.io/faeground>Faeground</a>
-<br/>
-Cookie Crafter (Xmas extension for MCdle, only available seasonally) - <a href=https://www.mcdle.net/>MCdle</a>
-<br/>
-GMTK 2023 (GameJam) - <a href=https://elitogame.itch.io/let-it-cook>Let it Cook</a>
+
+<table>
+  <caption>Miscellaneous</caption>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Cookie Crafter</td>
+    <td>Xmas extension for MCdle, only available seasonally</td>
+    <td><a href=https://www.mcdle.net/cookie-crafter>Cookie Crafter</a></td>
+  </tr>
+  <tr>
+    <td>HGB Dashboard</td>
+    <td>A dashboard giving an overview over the current lunch meals and weather conditions to make life a bit easier.</td>
+    <td><a href=https://jususs.github.io/HGB-Dashboard/>Dashboard</a></td>
+  </tr>
+</table>
 
 
 ## 📜 Released Papers
