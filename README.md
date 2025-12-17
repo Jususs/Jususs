@@ -46,14 +46,14 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>Cookie Crafter</td>
-    <td>Xmas extension for MCdle, only available seasonally</td>
-    <td><a href=https://www.mcdle.net/cookie-crafter>Cookie Crafter</a></td>
-  </tr>
-  <tr>
     <td>HGB Dashboard</td>
     <td>A dashboard giving an overview over the current lunch meals and weather conditions to make life a bit easier.</td>
     <td><a href=https://jususs.github.io/HGB-Dashboard/>Dashboard</a></td>
+  </tr>
+  <tr>
+    <td>Cookie Crafter</td>
+    <td>Xmas extension for MCdle, only available seasonally</td>
+    <td><a href=https://www.mcdle.net/cookie-crafter>Cookie Crafter</a></td>
   </tr>
 </table>
 
