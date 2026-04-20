@@ -17,7 +17,7 @@
   <tr>
     <td>2025</td>
     <td>HGB Game Jam</td>
-    <td> _coming soon_ </td>
+    <td><a href="https://hagenberg-gamejam.at/2025/2fail">2Fail</a></td>
   </tr>
   <tr>
     <td>2025</td>
