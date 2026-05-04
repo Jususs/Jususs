@@ -15,6 +15,11 @@
     <th>Link</th>
   </tr>
   <tr>
+    <td>2026</td>
+    <td>IoT Allergy Exposure Dashboard</td>
+    <td><a href="https://github.com/adhamnaeim/pervasive_computing">IoT Dashboard</a></td>
+  </tr>
+  <tr>
     <td>2025</td>
     <td>HGB Game Jam</td>
     <td><a href="https://hagenberg-gamejam.at/2025/2fail">2Fail</a></td>
@@ -22,17 +27,17 @@
   <tr>
     <td>2025</td>
     <td>GMTK</td>
-    <td><a href=https://elitogame.itch.io/locolooptive>Locolooptive</a></td>
+    <td><a href="https://elitogame.itch.io/locolooptive">Locolooptive</a></td>
   </tr>
   <tr>
     <td>2024</td>
     <td>HGB Game Jam</td>
-    <td><a href=https://nocturnal-ducks.itch.io/faeground>Faeground</a></td>
+    <td><a href="https://nocturnal-ducks.itch.io/faeground">Faeground</a></td>
   </tr>
   <tr>
     <td>2023</td>
     <td>GMTK</td>
-    <td><a href=https://elitogame.itch.io/let-it-cook>Let it Cook</a></td>
+    <td><a href="https://elitogame.itch.io/let-it-cook">Let it Cook</a></td>
   </tr>
 </table>
 
