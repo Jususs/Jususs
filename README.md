@@ -11,7 +11,7 @@
   <caption>Game Jams</caption>
   <tr>
     <th>Year</th>
-    <th>Game Jam</th>
+    <th>Project/th>
     <th>Link</th>
   </tr>
   <tr>
@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>2025</td>
-    <td>GMTK</td>
+    <td>GMTK Game Jam</td>
     <td><a href="https://elitogame.itch.io/locolooptive">Locolooptive</a></td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>2023</td>
-    <td>GMTK</td>
+    <td>GMTK Game Jam</td>
     <td><a href="https://elitogame.itch.io/let-it-cook">Let it Cook</a></td>
   </tr>
 </table>
