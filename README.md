@@ -8,10 +8,9 @@
 ## 💻 Public Projects
 
 <table>
-  <caption>Game Jams</caption>
   <tr>
     <th>Year</th>
-    <th>Project/th>
+    <th>Project</th>
     <th>Link</th>
   </tr>
   <tr>
