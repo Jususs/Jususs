@@ -15,6 +15,11 @@
   </tr>
   <tr>
     <td>2026</td>
+    <td>NYC Big Data Traffic Analysis</td>
+    <td><a href="https://github.com/Jususs/NYC_Big_Data">NYC Big Data</a></td>
+  </tr>
+  <tr>
+    <td>2026</td>
     <td>IoT Allergy Exposure Dashboard</td>
     <td><a href="https://github.com/adhamnaeim/pervasive_computing">IoT Dashboard</a></td>
   </tr>
