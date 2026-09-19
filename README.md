@@ -1,9 +1,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jususs&theme=dark&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=A880FF&ring=FF8F00&currStreakNum=A880FF&currStreakLabel=FF8F00&sideNums=A880FF&sideLabels=FF8F00" alt="GitHub Streak" /></a>
 
-## About me :)
-- I studied Software Engineering and Design
-- Fantasy enthusiast that loves sports, coding, anime and videogames
+Fantasy enthusiast that loves sports, software, anime and videogames
 
 ## 💻 Public Projects
 
@@ -61,7 +59,7 @@
   </tr>
   <tr>
     <td>Cookie Crafter</td>
-    <td>Xmas extension for MCdle, only available seasonally</td>
+    <td>Xmas extension for MCdle (only available seasonally)</td>
     <td><a href=https://www.mcdle.net/cookie-crafter>Cookie Crafter</a></td>
   </tr>
 </table>
